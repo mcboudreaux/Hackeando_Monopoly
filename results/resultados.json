@@ -1,0 +1,369 @@
+{
+  "iteracoes_potencia": 159,
+  "modulo_lambda2": 0.8380007964285966,
+  "lances_para_1pct": 26.056741366936468,
+  "top5_analitico": [
+    {
+      "casa": 10,
+      "nome": "Cadeia / Só Visitando",
+      "pct": 6.033691261938015
+    },
+    {
+      "casa": 24,
+      "nome": "Avenida Illinois",
+      "pct": 3.1865897289882206
+    },
+    {
+      "casa": 0,
+      "nome": "Partida (GO)",
+      "pct": 3.1053690419743387
+    },
+    {
+      "casa": 19,
+      "nome": "Avenida New York",
+      "pct": 3.076450052257814
+    },
+    {
+      "casa": 25,
+      "nome": "B&O Railroad",
+      "pct": 3.064012226070464
+    }
+  ],
+  "simulacao": {
+    "simplificado": {
+      "lances": 4000000,
+      "L1_vs_analitico": 0.0026830199410843546,
+      "cadeia_total_pct": 6.046900000000002,
+      "preso_pct": 0.0,
+      "erro_padrao_max_pct": 0.010810238493271418
+    },
+    "completo_sair_logo": {
+      "lances": 4000000,
+      "L1_vs_analitico": 0.005005298312414317,
+      "cadeia_total_pct": 6.199075000000002,
+      "preso_pct": 3.938050000000002,
+      "erro_padrao_max_pct": 0.008763069026821838
+    },
+    "completo_ficar": {
+      "lances": 4000000,
+      "L1_vs_analitico": 0.10990417476123968,
+      "cadeia_total_pct": 11.528900000000004,
+      "preso_pct": 9.384975000000004,
+      "erro_padrao_max_pct": 0.021119589417429595
+    }
+  },
+  "retorno": {
+    "sem casas": [
+      {
+        "grupo": "Ferrovia",
+        "investimento": 800,
+        "renda_por_lance": 22.812001907971688,
+        "lances_para_retorno": 35.06925885888335
+      },
+      {
+        "grupo": "Utilidade",
+        "investimento": 300,
+        "renda_por_lance": 3.798831821701044,
+        "lances_para_retorno": 78.97164551645399
+      },
+      {
+        "grupo": "Azul Escuro",
+        "investimento": 750,
+        "renda_por_lance": 4.169744513020575,
+        "lances_para_retorno": 179.86713518250974
+      },
+      {
+        "grupo": "Vermelho",
+        "investimento": 680,
+        "renda_por_lance": 3.279601136003282,
+        "lances_para_retorno": 207.34228700404972
+      },
+      {
+        "grupo": "Laranja",
+        "investimento": 560,
+        "renda_por_lance": 2.5825221725987504,
+        "lances_para_retorno": 216.84228152685367
+      },
+      {
+        "grupo": "Verde",
+        "investimento": 920,
+        "renda_por_lance": 4.165200965487268,
+        "lances_para_retorno": 220.8776977685093
+      },
+      {
+        "grupo": "Amarelo",
+        "investimento": 800,
+        "renda_por_lance": 3.6120413185799682,
+        "lances_para_retorno": 221.48140883241908
+      },
+      {
+        "grupo": "Rosa",
+        "investimento": 440,
+        "renda_por_lance": 1.6125003206321755,
+        "lances_para_retorno": 272.86816279670535
+      },
+      {
+        "grupo": "Azul Claro",
+        "investimento": 320,
+        "renda_por_lance": 0.9242679202192301,
+        "lances_para_retorno": 346.21995743842126
+      },
+      {
+        "grupo": "Marrom",
+        "investimento": 120,
+        "renda_por_lance": 0.25996639957749157,
+        "lances_para_retorno": 461.5981149680462
+      }
+    ],
+    "3 casas": [
+      {
+        "grupo": "Laranja",
+        "investimento": 1460,
+        "renda_por_lance": 49.84912837540179,
+        "lances_para_retorno": 29.288375696463362
+      },
+      {
+        "grupo": "Azul Escuro",
+        "investimento": 1950,
+        "renda_por_lance": 61.00048351836467,
+        "lances_para_retorno": 31.96695972767064
+      },
+      {
+        "grupo": "Vermelho",
+        "investimento": 2030,
+        "renda_por_lance": 62.88485827534486,
+        "lances_para_retorno": 32.28122088009695
+      },
+      {
+        "grupo": "Amarelo",
+        "investimento": 2150,
+        "renda_por_lance": 65.08514174968228,
+        "lances_para_retorno": 33.03365318414622
+      },
+      {
+        "grupo": "Ferrovia",
+        "investimento": 800,
+        "renda_por_lance": 22.812001907971688,
+        "lances_para_retorno": 35.06925885888335
+      },
+      {
+        "grupo": "Verde",
+        "investimento": 2720,
+        "renda_por_lance": 72.8609389165716,
+        "lances_para_retorno": 37.33138826435517
+      },
+      {
+        "grupo": "Rosa",
+        "investimento": 1340,
+        "renda_por_lance": 35.29477987959684,
+        "lances_para_retorno": 37.96595430177553
+      },
+      {
+        "grupo": "Azul Claro",
+        "investimento": 770,
+        "renda_por_lance": 19.404756059533135,
+        "lances_para_retorno": 39.680993548059355
+      },
+      {
+        "grupo": "Marrom",
+        "investimento": 420,
+        "renda_por_lance": 5.8492439904935605,
+        "lances_para_retorno": 71.80415121725163
+      },
+      {
+        "grupo": "Utilidade",
+        "investimento": 300,
+        "renda_por_lance": 3.798831821701044,
+        "lances_para_retorno": 78.97164551645399
+      }
+    ],
+    "hotel": [
+      {
+        "grupo": "Laranja",
+        "investimento": 2060,
+        "renda_por_lance": 84.98433081123662,
+        "lances_para_retorno": 24.239762557824683
+      },
+      {
+        "grupo": "Azul Claro",
+        "investimento": 1070,
+        "renda_por_lance": 39.270563798049054,
+        "lances_para_retorno": 27.24687135897848
+      },
+      {
+        "grupo": "Vermelho",
+        "investimento": 2930,
+        "renda_por_lance": 93.53063998077025,
+        "lances_para_retorno": 31.326632647893817
+      },
+      {
+        "grupo": "Rosa",
+        "investimento": 1940,
+        "renda_por_lance": 60.468762023706574,
+        "lances_para_retorno": 32.08268095912778
+      },
+      {
+        "grupo": "Azul Escuro",
+        "investimento": 2750,
+        "renda_por_lance": 85.58160720714201,
+        "lances_para_retorno": 32.13307262790579
+      },
+      {
+        "grupo": "Amarelo",
+        "investimento": 3050,
+        "renda_por_lance": 92.99361712408802,
+        "lances_para_retorno": 32.79794994886765
+      },
+      {
+        "grupo": "Ferrovia",
+        "investimento": 800,
+        "renda_por_lance": 22.812001907971688,
+        "lances_para_retorno": 35.06925885888335
+      },
+      {
+        "grupo": "Verde",
+        "investimento": 3920,
+        "renda_por_lance": 102.8020806034433,
+        "lances_para_retorno": 38.13152396322903
+      },
+      {
+        "grupo": "Marrom",
+        "investimento": 620,
+        "renda_por_lance": 15.159293478282805,
+        "lances_para_retorno": 40.89900369619545
+      },
+      {
+        "grupo": "Utilidade",
+        "investimento": 300,
+        "renda_por_lance": 3.798831821701044,
+        "lances_para_retorno": 78.97164551645399
+      }
+    ]
+  },
+  "retorno_ficar": {
+    "3 casas": [
+      {
+        "grupo": "Laranja",
+        "investimento": 1460,
+        "renda_por_lance": 47.12727499999999,
+        "lances_para_retorno": 30.97993677758793
+      },
+      {
+        "grupo": "Azul Escuro",
+        "investimento": 1950,
+        "renda_por_lance": 57.44314999999998,
+        "lances_para_retorno": 33.94660634035565
+      },
+      {
+        "grupo": "Vermelho",
+        "investimento": 2030,
+        "renda_por_lance": 58.7009125,
+        "lances_para_retorno": 34.58208592583633
+      },
+      {
+        "grupo": "Amarelo",
+        "investimento": 2150,
+        "renda_por_lance": 61.26215000000001,
+        "lances_para_retorno": 35.09507909859513
+      },
+      {
+        "grupo": "Ferrovia",
+        "investimento": 800,
+        "renda_por_lance": 21.211999999999996,
+        "lances_para_retorno": 37.7145012257213
+      },
+      {
+        "grupo": "Verde",
+        "investimento": 2720,
+        "renda_por_lance": 68.52297500000006,
+        "lances_para_retorno": 39.694715531542485
+      },
+      {
+        "grupo": "Rosa",
+        "investimento": 1340,
+        "renda_por_lance": 33.47347500000001,
+        "lances_para_retorno": 40.03169673898511
+      },
+      {
+        "grupo": "Azul Claro",
+        "investimento": 770,
+        "renda_por_lance": 18.196590000000008,
+        "lances_para_retorno": 42.3156206739834
+      },
+      {
+        "grupo": "Marrom",
+        "investimento": 420,
+        "renda_por_lance": 5.470087500000001,
+        "lances_para_retorno": 76.78122150696856
+      },
+      {
+        "grupo": "Utilidade",
+        "investimento": 300,
+        "renda_por_lance": 3.688807500000003,
+        "lances_para_retorno": 81.32709554510495
+      }
+    ],
+    "hotel": [
+      {
+        "grupo": "Laranja",
+        "investimento": 2060,
+        "renda_por_lance": 80.37967499999998,
+        "lances_para_retorno": 25.6283693607868
+      },
+      {
+        "grupo": "Azul Claro",
+        "investimento": 1070,
+        "renda_por_lance": 36.82650000000002,
+        "lances_para_retorno": 29.055164080213963
+      },
+      {
+        "grupo": "Vermelho",
+        "investimento": 2930,
+        "renda_por_lance": 87.3020375,
+        "lances_para_retorno": 33.561645110516466
+      },
+      {
+        "grupo": "Rosa",
+        "investimento": 1940,
+        "renda_por_lance": 57.409275000000015,
+        "lances_para_retorno": 33.79244904242388
+      },
+      {
+        "grupo": "Azul Escuro",
+        "investimento": 2750,
+        "renda_por_lance": 80.59249999999997,
+        "lances_para_retorno": 34.12228185004809
+      },
+      {
+        "grupo": "Amarelo",
+        "investimento": 3050,
+        "renda_por_lance": 87.53218750000002,
+        "lances_para_retorno": 34.84432512325822
+      },
+      {
+        "grupo": "Ferrovia",
+        "investimento": 800,
+        "renda_por_lance": 21.211999999999996,
+        "lances_para_retorno": 37.7145012257213
+      },
+      {
+        "grupo": "Verde",
+        "investimento": 3920,
+        "renda_por_lance": 96.68201875000007,
+        "lances_para_retorno": 40.54528495248241
+      },
+      {
+        "grupo": "Marrom",
+        "investimento": 620,
+        "renda_por_lance": 14.176075,
+        "lances_para_retorno": 43.73566025856945
+      },
+      {
+        "grupo": "Utilidade",
+        "investimento": 300,
+        "renda_por_lance": 3.688807500000003,
+        "lances_para_retorno": 81.32709554510495
+      }
+    ]
+  }
+}
